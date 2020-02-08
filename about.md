@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<!-- link to main stylesheet -->
@@ -15,4 +14,4 @@
 
 
 this is david
-</html>
+
